@@ -1,0 +1,6 @@
+framework module AIQApi {
+  umbrella header "AIQApi.h"
+
+  export *
+  module * { export * }
+}
