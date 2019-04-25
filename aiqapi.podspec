@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "aiqapi"
-  spec.version      = "1.0.0"
+  spec.name         = "AIQApi"
+  spec.version      = "0.1.0"
   spec.summary      = "APIApi is an objective-c framework for AIQ's API."
 
   spec.homepage     = 'https://github.com/aiqtech/aiqapi-ios'
